@@ -14,7 +14,8 @@
     "transform-object-rest-spread",
     "transform-object-assign",
     "transform-class-properties",
-    "transform-export-extensions"
+    "transform-export-extensions",
+    "transform-runtime"
   ],
   "env": {
     "es": {
